@@ -1,0 +1,1 @@
+pyuic5 -x imageBrowes.ui -o ImageBrwe.py
